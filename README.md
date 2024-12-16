@@ -1,4 +1,7 @@
 # Case-Study---Online-Sales-Platform-Data-Insights
+Main Tasks:
+SQL: Data collation, merging and extraction
+R: Data Cleaning, Merging External Data, Multiple Imputation by Chained Equations, Statistical Analysis, One-to-One Relationship Analysis, Visualization, Linear Regression Modeling
 This project mainly uses SQL and R for analysis, focuses on analyzing beachwear sales performance and identifying key factors influencing conversion rates.
 
 
